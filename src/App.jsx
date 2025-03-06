@@ -8,6 +8,7 @@ function App() {
     <>
       <h1>Hello World!</h1>
       <p>Let's test the Netlify CD</p>
+      <h2>This is a new change after I have already deployed</h2>
     </>
   );
 }
